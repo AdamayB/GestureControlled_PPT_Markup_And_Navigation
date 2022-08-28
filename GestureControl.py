@@ -4,6 +4,7 @@ import cv2
 import numpy as np
 
 width, length = 1280, 720
+# Put your Presentation folder name here
 folderPath = "Presentation1"
 #setting up webcam
 cap = cv2.VideoCapture(0)
