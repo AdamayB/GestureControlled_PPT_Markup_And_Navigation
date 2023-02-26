@@ -34,5 +34,4 @@ import numpy as np
 4) **Thumbs:** To move to the previous slide.
 5) **First Three fingers:** Erasing. The last annotation goes first.
 
-### Reference:
-https://www.youtube.com/watch?v=CKmAZss-T5Y
+
